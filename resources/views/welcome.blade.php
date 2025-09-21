@@ -10,7 +10,7 @@
     <section class="mb-16">
         <div class="bg-[#E6F4EC] rounded-3xl shadow-2xl p-10 md:p-16 flex flex-col items-center text-center">
             <h1 class="text-4xl md:text-5xl font-extrabold text-[#10621E] mb-6 drop-shadow">
-                Bienvenidos a la Escuela Telesecundaria Justo Sierra :D
+                Bienvenidos a la Escuela Telesecundaria Justo Sierra
             </h1>
             <p class="text-lg md:text-2xl text-gray-800 font-medium mb-4 max-w-2xl">
                 Ofrecemos educación de calidad y promovemos valores, desarrollo integral y pensamiento crítico.
